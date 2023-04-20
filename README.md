@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi, I'm rickshang ,I like working on novel attack techniques and dream of becoming a security researcher, this is my blog : [https://shangrui-hash.github.io](https://shangrui-hash.github.io)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShangRui-hash&show_icons=true&theme=radical)
