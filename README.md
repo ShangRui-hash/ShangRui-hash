@@ -21,4 +21,3 @@ Hi, I'm rickshang ,I like working on novel attack techniques and dream of becomi
 - twitter: [https://twitter.com/RuiShang9](https://twitter.com/RuiShang9)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShangRui-hash&show_icons=true&theme=radical)
