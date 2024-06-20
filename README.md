@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 Hi, I'm rickshang ,I like working on novel attack techniques and dream of becoming a security researcher
+- weixin: xdujim
 - blog : [https://shangrui-hash.github.io](https://shangrui-hash.github.io)
 - twitter: [https://twitter.com/RuiShang9](https://twitter.com/RuiShang9)
 
